@@ -4,29 +4,17 @@
 
 ## ✨ 项目介绍
 
-1. 使用 A* 算法解决八数码问题。
-2. 使用 ID3 算法建立决策树。
-3. 使用 Q-learning 算法攻克迷宫游戏。
+1. 使用 A* 算法解决八数码问题
+2. 使用 ID3 算法建立决策树
+3. 使用 Q-learning 算法攻克迷宫游戏
 
-## 🚀 使用说明
+## ⚠️ 项目声明
 
-使用 pipenv（推荐）：
+1. 本项目主要用于个人学习的记录、总结与存档，不保证其正确性、完整性与安全性。
+2. 欢迎适度的借鉴与参考，但不提倡无脑的复制与抄袭。
+3. 允许在公开文章中转载、引用本项目内容，但请使用超链接注明作者与出处。
+4. 仅供学习交流使用，请勿用于商业用途，否则后果自负。
 
-```
-pipenv install
-pipenv shell
-```
+## 📜 许可证
 
-使用 pip：
-
-```
-pip install -r requirements.txt
-```
-
-运行代码：
-
-```
-python 8-puzzle/main.py         # 实验一
-python id3/main.py              # 实验二
-python reinforcement/train.py   # 实验三
-```
+[MIT](LICENSE)
